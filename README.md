@@ -7,7 +7,8 @@ The lab is built on GNS3 and designed to simulate real-world enterprise routing 
 
 ## 📌 Topology Diagram
 
-<img width="1861" height="895" alt="area types new" src="https://github.com/user-attachments/assets/809ce08f-ed44-4546-aba2-fc30e01e3145" />
+<img width="1861" height="895" alt="topology" src="https://github.com/user-attachments/assets/c2de9677-4d73-43d0-9a37-18f62f91c9f3" />
+
 
 
 ---
