@@ -179,7 +179,7 @@ show ip ospf interface
 ```
 
 ## 🏁 Conclusion
----
+
 This lab demonstrates advanced OSPF design concepts including:
 - Multi-area OSPF with NSSA regions
 - Backbone behavior and area hierarchy
